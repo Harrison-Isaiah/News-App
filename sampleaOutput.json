@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Timothy Bella",
+            "title": "Dave Chappelle's show in Minneapolis canceled by venue after backlash - The Washington Post",
+            "description": "First Avenue had faced blowback for booking the legendary comedian for a surprise, sold-out performance in the months that followed his 2021 Netflix special, “The Closer,” in which Chappelle doubled down on jokes about the LGBTQ community.",
+            "url": "https://www.washingtonpost.com/arts-entertainment/2022/07/21/dave-chappelle-minneapolis-first-avenue-canceled/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TP4VFCHRCQI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-07-21T16:30:41Z",
+            "content": "Comment on this story\r\nComedian Dave Chappelles show at a Minneapolis venue on Wednesday was canceled hours before he was set to take the stage because of backlash from staff and the community over h… [+4593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Melissa Eddy",
+            "title": "Russia Restarts Gas Flow to Germany: Ukraine War Updates - The New York Times",
+            "description": "The anxiety over whether Moscow would restart gas shipments through a key pipeline was a reminder of Europe’s reliance on Russian energy. On the battlefield, Ukraine said it had struck dozens of targets across the south of the country.",
+            "url": "https://www.nytimes.com/live/2022/07/21/world/ukraine-war-russia",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/21/world/21ukraine-briefing-carousel-new/merlin_210384927_68ed3271-07aa-4f60-a36e-241e90d5f5bc-facebookJumbo.jpg",
+            "publishedAt": "2022-07-21T16:08:15Z",
+            "content": "The American-made HIMARS truck-mounted rocket system on display in March at the World Defense Show in Riyadh, Saudi Arabia.Credit...Fayez Nureldine/Agence France-Presse Getty Images\r\nAs Russias forei… [+4036 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Joe Skrebels",
+            "title": "Avatar: Frontiers of Pandora Delayed to At Least April 2023 - IGN - IGN",
+            "description": "Ubisoft has announced that its upcoming open world adventure, Avatar: Frontiers of Pandora has been delayed to April 2023 at the earliest.",
+            "url": "https://www.ign.com/articles/avatar-frontiers-of-pandora-delayed-to-at-least-april-2023",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/21/avatarfrontiersofpandorablog-1624530389516-1658418687547.jpg?width=1280",
+            "publishedAt": "2022-07-21T16:04:00Z",
+            "content": "Ubisoft has announced that its upcoming first-person open world adventure, Avatar: Frontiers of Pandora has been delayed to April 2023 at the earliest.\r\nRevealed as part of Ubisoft's Q1 earnings repo… [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Dennis Young",
+            "title": "Steph Curry roasts LeBron, Celtics, Tom Brady at ESPYs - SFGATE",
+            "description": "Steph Curry roasted half the sports world at the ESPYs on Wednesday night.",
+            "url": "https://www.sfgate.com/warriors/article/Warriors-Steph-Curry-roasts-LeBron-Tom-Brady-17319470.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/26/53/63/22723783/3/rawImage.jpg",
+            "publishedAt": "2022-07-21T15:19:53Z",
+            "content": "Steph Curry hosting the ESPYs in Los Angeles for the first time Wednesday night.\r\nABC/ABC via Getty Images\r\nIn LeBron James' backyard, Steph Curry used his monologue as ESPYs host to take a few shots… [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Will Feuer, Melanie Evans and Sebastian Herrera",
+            "title": "Amazon to Buy One Medical for $3.9 Billion in Healthcare Deal - The Wall Street Journal",
+            "description": "The deal gives Amazon a new foothold with companies paying for employee care and physical locations.",
+            "url": "https://www.wsj.com/articles/amazon-to-buy-one-medical-for-3-9-billion-11658408934",
+            "urlToImage": "https://images.wsj.net/im-588085/social",
+            "publishedAt": "2022-07-21T15:12:00Z",
+            "content": "Amazon Inc. is buying an operator of primary-care clinics, a significant expansion of a similar service the tech giant launched several years ago that underscores its sweeping \r\nambitions in healthca… [+271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Joshua Rhett Miller",
+            "title": "15-foot-long snake shot by cops while wrapped around owner's neck - New York Post ",
+            "description": "A massive snake wrapped itself around the neck of a Pennsylvania man, prompting responding cops to shoot the pet in the head, police said.",
+            "url": "https://nypost.com/2022/07/21/15-foot-long-snake-shot-by-cops-while-wrapped-around-owners-neck/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/red-tailed-boa-constrictor-47-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-07-21T14:56:00Z",
+            "content": "A massive snake wrapped itself around the neck of a Pennsylvania man, prompting responding cops to shoot the pet in the head, police said.\r\nThe huge reptile, estimated to be least 15 feet long, latch… [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul Vercammen and Brad Parks, CNN",
+            "title": "Ex-Minneapolis police officer Thomas Lane set to be sentenced for violating George Floyd's civil rights - CNN",
+            "description": "Thomas Lane, one of the three former Minneapolis police officers convicted in February of violating George Floyd's civil rights, was sentenced to 2.5 years in federal prison on Thursday.",
+            "url": "https://www.cnn.com/2022/07/21/us/thomas-lane-george-floyd-sentence/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220518113956-thomas-lane-0121-super-tease.jpg",
+            "publishedAt": "2022-07-21T14:27:00Z",
+            "content": "(CNN)Thomas Lane, one of the three former Minneapolis police officers convicted in February of violating George Floyd's civil rights, was sentenced to 2.5 years in federal prison on Thursday.\r\nFedera… [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whitehouse.gov"
+            },
+            "author": "The White House",
+            "title": "Statement from Press Secretary Karine Jean-Pierre - The White House",
+            "description": "This morning, President Biden tested positive for COVID-19.  He is fully vaccinated and twice boosted and experiencing very mild symptoms.  He",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/statement-from-press-secretary-karine-jean-pierre/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+            "publishedAt": "2022-07-21T14:20:54Z",
+            "content": "This morning, President Biden tested positive for COVID-19.  He is fully vaccinated and twice boosted and experiencing very mild symptoms.  He has begun taking Paxlovid. Consistent with CDC guideline… [+1106 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Whitney Wild and Jeremy Herb, CNN",
+            "title": "First on CNN: DHS inspector general tells Secret Service to stop investigating potentially missing texts - CNN",
+            "description": "The Department of Homeland Security inspector general has directed the Secret Service to stop its internal investigations into what happened to text messages related to January 6 that may have been deleted, according to a letter reviewed by CNN.",
+            "url": "https://www.cnn.com/2022/07/21/politics/dhs-inspector-general-secret-service-texts/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220720083538-01-us-secret-service-january-6-2021-super-tease.jpg",
+            "publishedAt": "2022-07-21T14:20:00Z",
+            "content": "(CNN)The Department of Homeland Security inspector general has directed the Secret Service to stop its internal investigations into what happened to text messages related to January 6 that may have b… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "NBA whacks Warriors owner with $500,000 fine for calling luxury tax “very unfair” - NBC Sports",
+            "description": "At a time when the NFL faces a defense from Deshaun Watson that the league tiptoes around the oligarchs who own franchises, the NBA has taken a much different approach to owner discipline.Via ESPN, the NBA fined Warriors owner Joe Lacob a whopping $500,000 on…",
+            "url": "https://profootballtalk.nbcsports.com/2022/07/21/nba-whacks-warriors-owner-with-500000-fine-for-calling-luxury-tax-very-unfair/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/07/GettyImages-1349302866-e1658412400308.jpg",
+            "publishedAt": "2022-07-21T14:11:00Z",
+            "content": "At a time when the NFL faces a defense from Deshaun Watson that the league tiptoes around the oligarchs who own franchises, the NBA has taken a much different approach to owner discipline.\r\nVia ESPN,… [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jacob Bernstein",
+            "title": "At Ivana Trump’s Funeral, a Gold-Hued Coffin and the Secret Service - The New York Times",
+            "description": "“People adored Ivana.”",
+            "url": "https://www.nytimes.com/2022/07/20/style/ivana-trump-funeral.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/20/fashion/20IVANA-FUNERAL1/20IVANA-FUNERAL1-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-07-21T14:10:00Z",
+            "content": "But they did include Paolo Zampolli, the former modeling agent whom Mr. Trump appointed to the board of trustees at the John F. Kennedy Center for the Performing Arts; Dennis Basso, the fashion desig… [+1594 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/daniel-cooper",
+            "title": "Framework's first major laptop upgrade lets you swap your system's brain | Engadget - Engadget",
+            "description": "It's easy enough to swap a mainboard if you can handle a Torx T5 screwdriver..",
+            "url": "https://www.engadget.com/framework-mainboard-upgrade-140042960.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/727bba40-0776-11ed-bf7f-c444b4a745d3",
+            "publishedAt": "2022-07-21T14:07:21Z",
+            "content": "Framework launched last year with the promise of building laptops that you could upgrade yourself with little more than a screwdriver and some patience. Now, 12 months after making its debut, the com… [+5464 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Fox, Barbie Latza Nadeau and Livia Borghese, CNN",
+            "title": "Italian Prime Minister Mario Draghi resigns as coalition collapses, risking EU unity on Ukraine and economy - CNN",
+            "description": "Italian Prime Minister Mario Draghi announced his intention to resign on Thursday after several key parties in his coalition boycotted a confidence vote in the government last night.",
+            "url": "https://www.cnn.com/2022/07/21/europe/mario-draghi-italy-resignation-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220721093929-02-draghi-parliament-072122-super-tease.jpg",
+            "publishedAt": "2022-07-21T14:01:00Z",
+            "content": "Rome, Italy (CNN)Italian Prime Minister Mario Draghi resigned on Thursday, plunging the European Union's third-largest economy into fresh political turmoil.\r\nDraghi's resignation comes after several … [+5034 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Ricky Martin Wins in Court, Nephew's Restraining Order Dismissed - TMZ",
+            "description": "Ricky Martin just won his case against his nephew who accused him of having a sexual relationship and then harassing him afterward, and that's because the 21-year-old nephew withdrew his claim.",
+            "url": "https://www.tmz.com/2022/07/21/ricky-martin-wins-nephew-restraining-order-sexual-relationship/",
+            "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2022/07/21/f19b9152c04b47e2a264abdccc7a7e57_xl.jpg",
+            "publishedAt": "2022-07-21T13:57:00Z",
+            "content": "Ricky Martin just won his case against his nephew who accused him of having a sexual relationship and then harassing him afterward, and that's because the 21-year-old nephew withdrew his claim.\r\nSour… [+1224 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "ECB hikes interest rates for first time in 11 years - Al Jazeera English",
+            "description": "Concerns over runaway inflation have mounted amid economic uncertainty in wake of Russia’s invasion of Ukraine.",
+            "url": "https://www.aljazeera.com/economy/2022/7/21/ecb-hikes-interest-rates-for-first-time-in-11-years",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2021-04-15T000000Z_547960696_RC2BWM9N491M_RTRMADP_3_EUROPE-BONDS-ECB-1.jpg?resize=1200%2C630",
+            "publishedAt": "2022-07-21T13:46:32Z",
+            "content": "The European Central Bank (ECB) has raised interest rates for the first time in 11 years. It joins several other central banks in prioritising concerns about runaway inflation  driven by, among other… [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Elon Musk's Tesla sell most of its Bitcoin holdings – BBC News - BBC News",
+            "description": "The electric car firm Tesla, which made waves last year when it revealed a major investment in Bitcoin, has now sold off most of its holdings of the cryptocu...",
+            "url": "https://www.youtube.com/watch?v=5-aN_803Ca4",
+            "urlToImage": "https://i.ytimg.com/vi/5-aN_803Ca4/hqdefault.jpg",
+            "publishedAt": "2022-07-21T13:30:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "MLB Power Rankings: Second half starts with a new No. 1 and four teams eyeing 100 wins - CBS Sports",
+            "description": "The All-Star break is in the rear-view mirror, and the second half starts with a new team atop the rankings",
+            "url": "https://www.cbssports.com/mlb/news/mlb-power-rankings-second-half-starts-with-a-new-no-1-and-four-teams-eyeing-100-wins/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/21/2627e006-fac3-4511-a9d8-149de0a87034/thumbnail/1200x675/d2260908822cf3d63a58d531cf4ccf1a/mlbpowerrankings0721.png",
+            "publishedAt": "2022-07-21T13:28:03Z",
+            "content": "LOS ANGELES - The All-Star break is over. It's time to start looking ahead at the latter portion of the 2022 Major League Baseball regular season. And when I look at the top of the heap, I take notic… [+9467 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, CNN",
+            "title": "Dangerously high temperatures will last through the weekend with millions of Americans set to experience triple-digit heat - CNN",
+            "description": "More than 85% of Americans are bracing for temperatures above 90 degrees Fahrenheit through the weekend, with millions in the south-central US expected to experience readings in the triple digits.",
+            "url": "https://www.cnn.com/2022/07/21/weather/us-extreme-heat-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220720234345-01-us-extreme-heat-thursday-super-tease.jpg",
+            "publishedAt": "2022-07-21T13:07:00Z",
+            "content": "(CNN)More than 85% of Americans are bracing for temperatures above 90 degrees Fahrenheit through the weekend, with millions in the south-central US expected to experience readings in the triple digit… [+6468 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/jon-fingas",
+            "title": "Is it worth importing the Nothing Phone 1? | Engadget - Engadget",
+            "description": "Is it worth the costs and other challenges to import the Nothing Phone 1 into the US? Not necessarily..",
+            "url": "https://www.engadget.com/nothing-phone-1-import-to-usa-130001121.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/a8ccfee0-0831-11ed-b6ea-ab0b6567f2ce",
+            "publishedAt": "2022-07-21T13:02:21Z",
+            "content": "Its tempting to import the Nothing Phone 1. The combination of eye-catching design, well-rounded performance and a reasonable price can make it more appealing than other mid-range smartphones, and ev… [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Sources - Kyle Rudolph signing 1-year deal with Tampa Bay Buccaneers - ESPN",
+            "description": "Kyle Rudolph is signing a one-year contact with the Buccaneers, a source told ESPN's Adam Schefter.",
+            "url": "https://www.espn.com/nfl/story/_/id/34274033/sources-kyle-rudolph-signing-1-year-deal-tampa-bay-buccaneers",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1102%2Fr931728_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-21T12:54:37Z",
+            "content": "Veteran Kyle Rudolph is signing a one-year contact with the Tampa Bay Buccaneers, a source told ESPN's Adam Schefter on Wednesday, giving Tom Brady a new tight end target in the wake of Rob Gronkowsk… [+1218 chars]"
+        }
+    ]
+}
